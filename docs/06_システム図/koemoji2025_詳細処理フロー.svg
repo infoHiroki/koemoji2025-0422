@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200">
+  <!-- 背景 -->
+  <rect width="1000" height="1200" fill="#f8f9fa" />
+  
+  <!-- タイトル -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">音声会議インテリジェンスシステム「koemoji2025」詳細処理フロー</text>
+  
+  <!-- フロントエンド領域 -->
+  <rect x="50" y="70" width="900" height="180" rx="10" fill="#e3f2fd" stroke="#2196f3" stroke-width="2" />
+  <text x="500" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0d47a1">フロントエンド</text>
+  
+  <!-- フロントエンドコンポーネント -->
+  <rect x="70" y="115" width="200" height="110" rx="5" fill="#bbdefb" stroke="#64b5f6" stroke-width="1" />
+  <text x="170" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">LINE LIFF SDK</text>
+  <text x="170" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• LINEプラットフォームと統合する</text>
+  <text x="170" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• ユーザーを認証する</text>
+  <text x="170" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• プロフィール情報を取得する</text>
+  <text x="170" y="215" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">./app/static/js/liff/</text>
+  
+  <rect x="290" y="115" width="200" height="110" rx="5" fill="#bbdefb" stroke="#64b5f6" stroke-width="1" />
+  <text x="390" y="135" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">HTML/CSS/JavaScript</text>
+  <text x="390" y="155" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• レスポンシブUIを設計する</text>
+  <text x="390" y="175" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• ユーザーインターフェースを実装する</text>
+  <text x="390" y="195" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">• クライアントサイドロジックを構築する</text>
+  <text x="390" y="215" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">./app/templates/ & ./app/static/
